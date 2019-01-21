@@ -1,0 +1,13 @@
+.container {
+  padding: 0 1rem;
+}
+
+#title {
+  font-size: 18px;
+}
+
+@media (max-width: 500px) {
+  #title {
+    font-size: 14px;
+  }
+}
